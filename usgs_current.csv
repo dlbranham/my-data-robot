@@ -150,6 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T03:45:19.880Z,38.7941667,-122.7551667,2.29,0.16,md,17,87,0.007362,0.02,nc,nc73755641,2022-07-07T09:44:10.549Z,"2km N of The Geysers, CA",earthquake,0.19,0.51,0.333,3,reviewed,nc,nc
 2022-07-07T03:44:32.880Z,33.9721667,-117.6926667,3.54,1.11,ml,19,107,0.06162,0.29,ci,ci40298800,2022-07-07T03:48:15.693Z,"4km S of Chino, CA",earthquake,0.58,1.71,0.413,26,automatic,ci,ci
 2022-07-07T03:42:26.450Z,38.8253326,-122.8031693,2.79,0.35,md,11,81,0.00573,0.01,nc,nc73755636,2022-07-07T05:01:13.800Z,"7km NW of The Geysers, CA",earthquake,0.34,1.05,,1,automatic,nc,nc
+2022-07-07T03:27:22.232Z,28.98651123,-97.59478401,0.8070068358999999,2.3,ml,12,92,0.06737492949,0.1,tx,tx2022ndxx,2022-07-07T18:48:22.952Z,"7 km NNE of Nordheim, Texas",earthquake,1.116554698,2.264991255,0.1,6,reviewed,tx,tx
 2022-07-07T03:25:03.310Z,33.2406667,-116.6705,9.09,1.19,ml,32,57,0.04576,0.18,ci,ci40298784,2022-07-07T14:32:33.161Z,"6km SW of Warner Springs, CA",earthquake,0.23,0.59,0.207,26,reviewed,ci,ci
 2022-07-07T03:22:19.840Z,17.943,-66.8466666666667,11.36,2.51,md,33,178,,0.17,pr,pr71357873,2022-07-07T04:10:23.320Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.33,0.3,0.0986596902720906,22,reviewed,pr,pr
 2022-07-07T03:19:48.570Z,17.941,-66.8451,10,3.26,md,27,179,0.0482,0.21,pr,pr2022188000,2022-07-07T03:48:31.549Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.42,0.48,0.22,26,reviewed,pr,pr
@@ -236,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T19:11:15.030Z,19.1918333333333,-155.458166666667,34.51,1.57,md,17,135,,0.1,hv,hv73067102,2022-07-06T21:34:55.010Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.9,0.87,0.0987990880851273,10,reviewed,hv,hv
 2022-07-06T19:07:56.365Z,37.1624,-117.2373,7.3,1.6,ml,19,113.95,0.139,0.1791,nn,nn00842297,2022-07-07T02:40:08.981Z,"51 km WNW of Beatty, Nevada",earthquake,,2.5,1.06,12,reviewed,nn,nn
 2022-07-06T19:05:16.790Z,17.9721666666667,-67.0143333333333,8.19,1.63,md,5,177,,0.09,pr,pr71357793,2022-07-06T19:20:25.870Z,"3 km E of La Parguera, Puerto Rico",earthquake,0.47,0.76,0.050952064044316,5,reviewed,pr,pr
-2022-07-06T18:55:56.870Z,37.6121674,-122.5006638,8.65,1.31,md,12,175,0.02571,0.01,nc,nc73755451,2022-07-06T21:41:22.882Z,"1km W of Pacifica, CA",earthquake,0.51,0.47,0.14,8,automatic,nc,nc
-2022-07-06T18:51:22.800Z,37.5633316,-118.8623352,3.75,2.9,md,27,99,0.03751,0.02,nc,nc73755446,2022-07-07T02:40:07.110Z,"13km SE of Mammoth Lakes, CA",earthquake,0.22,0.51,0.11,39,automatic,nc,nc
-2022-07-06T18:49:39.113Z,62.9461,-149.2906,67.9,1.2,ml,,,,0.57,ak,ak0228lkiac7,2022-07-06T18:51:39.454Z,"52 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
