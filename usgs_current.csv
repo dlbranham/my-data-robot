@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T14:38:57.830Z,33.2364998,-116.1064987,7.16,1.94,ml,66,36,0.09563,0.23,ci,ci40299016,2022-07-07T14:41:16.444Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.21,0.79,0.208,26,automatic,ci,ci
+2022-07-07T14:38:11.116Z,58.1891,-153.8048,70,1.1,ml,,,,0.22,ak,ak0228n5lhdj,2022-07-07T14:41:05.011Z,"54 km WNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-07T14:30:35.776Z,61.5675,-151.4207,74.2,2.4,ml,,,,0.52,ak,ak0228n5jtk5,2022-07-07T14:32:29.518Z,"47 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-07T14:30:21.300Z,34.8418333,-119.0038333,14.49,1.44,ml,10,78,0.0723,0.18,ci,ci40298992,2022-07-07T14:34:01.867Z,"6km WNW of Frazier Park, CA",earthquake,0.6,1.25,0.532,12,automatic,ci,ci
 2022-07-07T14:22:48.482Z,61.7116,-148.372,31.8,1,ml,,,,0.52,ak,ak0228n5i4sw,2022-07-07T14:24:37.862Z,"10 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
