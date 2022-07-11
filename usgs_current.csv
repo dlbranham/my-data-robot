@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T10:01:20.610Z,33.5223333,-116.517,12.38,0.7,ml,20,55,0.03697,0.21,ci,ci40301672,2022-07-11T10:04:50.123Z,"15km ESE of Anza, CA",earthquake,0.37,0.65,0.193,15,automatic,ci,ci
 2022-07-11T10:01:01.419Z,38.2169,-117.8593,8.9,1.9,ml,21,96.26,0.1,0.1329,nn,nn00842566,2022-07-11T16:29:08.449Z,"29 km SE of Mina, Nevada",earthquake,,1.5,0.31,10,reviewed,nn,nn
 2022-07-11T09:39:01.420Z,38.8143349,-122.8264999,6.08,0.85,md,11,90,0.005846,0.04,nc,nc73757386,2022-07-11T11:03:10.632Z,"7km NW of The Geysers, CA",earthquake,0.72,1.02,,1,automatic,nc,nc
-2022-07-11T09:24:27.960Z,38.8326667,-122.8178333,1.95,0.2,md,16,55,0.01107,0.02,nc,nc73757381,2022-07-11T18:38:10.356Z,"8km NW of The Geysers, CA",earthquake,0.24,0.53,0.251,3,reviewed,nc,nc
+2022-07-11T09:24:27.960Z,38.8326667,-122.8178333,1.95,0.2,md,16,55,0.01107,0.02,nc,nc73757381,2022-07-11T18:54:13.440Z,"8km NW of The Geysers, CA",earthquake,0.24,0.53,0.251,3,reviewed,nc,nc
 2022-07-11T09:21:18.510Z,38.8050003,-122.7456665,-0.22,1.21,md,17,111,0.02283,0.04,nc,nc73757376,2022-07-11T10:33:13.475Z,"3km SW of Cobb, CA",earthquake,0.24,0.92,0.09,4,automatic,nc,nc
 2022-07-11T09:17:23.902Z,62.8716,-148.4428,57.7,1.5,ml,,,,0.87,ak,ak0228ton89k,2022-07-11T09:20:36.070Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-11T09:14:19.864Z,60.8779,-149.1753,20,1.4,ml,,,,0.48,ak,ak0228tomkte,2022-07-11T09:16:41.851Z,"7 km S of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -140,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T03:29:27.230Z,33.4535,-116.4041667,13.49,0.47,ml,14,88,0.072,0.17,ci,ci40301600,2022-07-11T03:33:12.003Z,"22km N of Borrego Springs, CA",earthquake,0.42,1.2,0.1,6,automatic,ci,ci
 2022-07-11T03:26:49.413Z,64.6407,-147.8523,18,1.1,ml,,,,0.66,ak,ak0228tl4m25,2022-07-11T03:29:00.867Z,"19 km S of South Van Horn, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-07-11T03:19:11.498Z,64.6332,-147.8732,23.4,2.1,ml,,,,0.49,ak,ak0228tl314d,2022-07-11T03:21:01.209Z,"20 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-11T03:18:47.360Z,39.3883324,-122.913002,0.35,2.35,md,18,143,0.1673,0.08,nc,nc73757301,2022-07-11T04:34:12.333Z,"4km ESE of Lake Pillsbury, CA",earthquake,0.31,7.89,0.14,14,automatic,nc,nc
+2022-07-11T03:18:47.380Z,39.3925,-122.909,3.32,2.12,md,44,48,0.1708,0.12,nc,nc73757301,2022-07-11T18:52:07.017Z,"5km ESE of Lake Pillsbury, CA",earthquake,0.18,1.06,0.176,39,reviewed,nc,nc
 2022-07-11T03:07:35.090Z,38.8371658,-122.7973328,0.89,0.36,md,7,158,0.005597,0.06,nc,nc73757296,2022-07-11T04:19:16.258Z,"7km WNW of Cobb, CA",earthquake,0.56,1.17,,1,automatic,nc,nc
 2022-07-11T03:05:29.097Z,-9.4278,112.9497,50.56,4.6,mb,30,89,1.522,0.93,us,us6000i1hz,2022-07-11T03:52:27.040Z,"134 km SSW of Kencong, Indonesia",earthquake,7.4,7.9,0.141,15,reviewed,us,us
 2022-07-11T02:59:10.800Z,38.7928352,-122.8071671,2.99,1.39,md,28,79,0.005525,0.03,nc,nc73757291,2022-07-11T03:50:15.104Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.42,0.06,7,automatic,nc,nc
