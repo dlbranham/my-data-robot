@@ -94,9 +94,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-05T00:21:29.623Z,38.5113,45.0375,15,5.6,mww,104,59,1.567,0.82,us,us6000iqx6,2022-10-05T11:16:29.754Z,"8 km ESE of Khowy, Iran",earthquake,5.89,1.823,0.057,30,reviewed,us,us
 2022-10-05T00:18:28.910Z,37.6013333,-122.451,7.7,0.86,md,11,83,0.0311,0.07,nc,nc73789491,2022-10-05T04:35:46.459Z,"4km ESE of Pacifica, CA",earthquake,0.4,0.47,0.221,9,reviewed,nc,nc
 2022-10-05T00:14:34.590Z,40.4231667,-121.273,0.16,1.23,md,10,87,0.1915,0.02,nc,nc73789486,2022-10-05T05:20:13.201Z,"14km NNW of Chester, CA",earthquake,0.67,2.53,0.093,9,reviewed,nc,nc
-2022-10-05T00:11:39.575Z,58.16,-155.4115,2,2.3,ml,,,,0.41,ak,ak022crrgx7p,2022-10-05T00:33:05.040Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
+2022-10-05T00:11:39.575Z,58.16,-155.4115,2,2.3,ml,,,,0.41,ak,ak022crrgx7p,2022-10-05T00:33:05.040Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-05T00:07:47.420Z,38.8081665,-122.8118362,0.32,0.84,md,12,71,0.01292,0.02,nc,nc73789481,2022-10-05T00:09:25.373Z,"6km NW of The Geysers, CA",earthquake,0.24,0.71,,1,automatic,nc,nc
-2022-10-05T00:05:36.154Z,62.5271,-148.8911,35.1,1.9,ml,,,,0.57,ak,ak022crrfmnj,2022-10-05T00:08:02.531Z,"Central Alaska",earthquake,,4.3,,,automatic,ak,ak
+2022-10-05T00:05:36.154Z,62.5271,-148.8911,35.1,1.9,ml,,,,0.57,ak,ak022crrfmnj,2022-10-05T00:08:02.531Z,"63 km E of Chase, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2022-10-04T23:59:05.899Z,44.2036,-115.0854,10,3.1,ml,20,70,0.804,0.81,us,us6000iqwy,2022-10-05T00:21:09.040Z,"11 km W of Stanley, Idaho",earthquake,2.06,2.011,0.035,110,reviewed,us,us
 2022-10-04T23:52:39.638Z,35.8542,-115.7952,4.3,1.7,ml,16,93.9,0.34,0.1436,nn,nn00848567,2022-10-05T02:40:20.845Z,"15 km WNW of Sandy Valley, Nevada",earthquake,,3.6,0.34,7,reviewed,nn,nn
 2022-10-04T23:41:27.320Z,37.19,-121.5346667,2.97,0.72,md,18,53,0.02901,0.1,nc,nc73789471,2022-10-05T04:29:45.847Z,"12km ENE of Morgan Hill, CA",earthquake,0.21,0.41,0.226,18,reviewed,nc,nc
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-04T16:01:27.683Z,59.7149,-139.0237,7,2.3,ml,,,,0.99,ak,ak022cqdecbk,2022-10-04T16:03:48.907Z,"43 km ENE of Yakutat, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-10-04T15:53:45.592Z,60.184,-152.5267,79.5,1.6,ml,,,,0.51,ak,ak022cqd43bz,2022-10-04T15:55:29.527Z,"50 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-04T15:51:01.296Z,-27.8511,-66.5644,162.808,4.8,mb,48,55,3.264,0.37,us,us6000iqqe,2022-10-04T16:52:54.040Z,"38 km SW of Andalgalá, Argentina",earthquake,6.68,7.903,0.062,87,reviewed,us,us
-2022-10-04T15:49:10.930Z,18.7636666666667,-67.3438333333333,9.5,3.15,md,9,288,,0.25,pr,pr71374823,2022-10-04T16:14:05.510Z,"39 km NW of San Antonio, Puerto Rico",earthquake,1.26,1.09,0.168208925221305,7,reviewed,pr,pr
+2022-10-04T15:49:10.930Z,18.7636666666667,-67.3438333333333,9.5,3.15,md,9,288,,0.25,pr,pr71374823,2022-10-04T16:14:05.510Z,"Mona Passage",earthquake,1.26,1.09,0.168208925221305,7,reviewed,pr,pr
 2022-10-04T15:41:20.130Z,38.8330002,-122.7981644,1.95,0.66,md,15,67,0.008153,0.02,nc,nc73789346,2022-10-04T15:42:57.926Z,"7km W of Cobb, CA",earthquake,0.25,0.46,0.5,3,automatic,nc,nc
 2022-10-04T15:40:09.930Z,36.1603333,-120.7385,8.51,2.45,md,66,106,0.05411,0.1,nc,nc73789341,2022-10-05T00:31:28.921Z,"22km NE of San Ardo, CA",earthquake,0.24,0.3,0.183,68,reviewed,nc,nc
 2022-10-04T15:39:41.890Z,19.4694995880127,-155.605163574219,-1.80999994277954,1.9,ml,24,60,,0.25,hv,hv73166797,2022-10-04T15:45:12.650Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.360000014,4.4,7,automatic,hv,hv
