@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-10T22:36:23.663Z,57.7857,-157.3684,16,3.7,ml,,,,0.33,ak,ak022efo29z2,2022-11-10T22:38:06.340Z,"27 km NNE of Pilot Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-10T22:36:23.663Z,57.7857,-157.3684,16,3.7,ml,,,,0.33,ak,ak022efo29z2,2022-11-10T22:41:35.404Z,"27 km NNE of Pilot Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-10T22:31:32.430Z,35.6268333,-117.4896667,12.27,2.02,ml,25,126,0.144,0.15,ci,ci40130855,2022-11-10T22:35:06.847Z,"17km E of Ridgecrest, CA",earthquake,0.37,0.8,0.192,25,automatic,ci,ci
 2022-11-10T22:26:50.190Z,38.8050003,-122.8168335,3.26,1.74,md,33,60,,0.04,nc,nc73803485,2022-11-10T22:38:10.760Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.36,0.05,10,automatic,nc,nc
 2022-11-10T22:25:11.230Z,19.4215,-155.445333333333,2.39,0.57,md,8,158,,0.64,hv,hv73216042,2022-11-10T22:43:46.610Z,"22 km W of Volcano, Hawaii",earthquake,3,8.81,0.0460599684147706,3,reviewed,hv,hv
@@ -190,6 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T03:45:21.480Z,19.4928333333333,-155.656333333333,2.68,2.15,md,22,79,,0.13,hv,hv73214782,2022-11-10T04:51:57.850Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.76,0.204245502584806,12,reviewed,hv,hv
 2022-11-10T03:43:52.650Z,19.4908333333333,-155.656166666667,2.07,2.12,md,19,77,,0.12,hv,hv73214777,2022-11-10T05:10:00.580Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.89,0.166023889018879,9,reviewed,hv,hv
 2022-11-10T03:43:12.640Z,35.916,-117.7165,2.46,0.96,ml,24,63,0.08863,0.14,ci,ci40130607,2022-11-10T15:02:31.895Z,"17km E of Little Lake, CA",earthquake,0.16,0.24,0.114,14,reviewed,ci,ci
+2022-11-10T03:40:35.320Z,46.917,-121.9085,11.31,0.19,ml,18,107,0.02828,0.09,uw,uw61893706,2022-11-10T22:50:35.080Z,"19 km NNE of Ashford, Washington",earthquake,0.31,0.46,0.09825866796477936,9,reviewed,uw,uw
 2022-11-10T03:30:15.720Z,19.4953333333333,-155.664166666667,2.52,1.65,md,9,115,,0.08,hv,hv73214767,2022-11-10T04:43:58.140Z,"21 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.46,1.36,0.0845874233224929,2,reviewed,hv,hv
 2022-11-10T03:21:21.450Z,41.1053333,-111.388,5.42,1.56,md,23,153,0.01919,0.13,uu,uu60524532,2022-11-10T14:21:32.690Z,"13 km NE of Henefer, Utah",earthquake,0.28,0.35,0.258,13,reviewed,uu,uu
 2022-11-10T03:06:10.200Z,35.0668333,-118.3293333,2.02,1.25,ml,32,33,0.07672,0.14,ci,ci40130599,2022-11-10T14:57:38.490Z,"13km ESE of Tehachapi, CA",earthquake,0.16,0.32,0.183,23,reviewed,ci,ci
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-09T23:07:50.887Z,39.417,-119.9376,5.5,0.6,ml,7,87.53,0.146,0.116,nn,nn00850987,2022-11-10T17:43:49.402Z,"7 km ENE of Floriston, California",earthquake,,7.4,0.41,3,reviewed,nn,nn
 2022-11-09T23:05:01.470Z,33.3875,-116.2856667,12.08,0.9,ml,22,197,0.03208,0.11,ci,ci40130543,2022-11-10T00:13:23.709Z,"17km NNE of Borrego Springs, CA",earthquake,0.28,0.52,0.107,5,reviewed,ci,ci
 2022-11-09T22:56:27.510Z,31.5633333,-115.6926667,4.02,2.97,ml,11,114,0.1883,0.07,ci,ci40130535,2022-11-10T00:18:23.744Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.36,1.09,0.148,52,reviewed,ci,ci
-2022-11-09T22:47:42.166Z,63.0323,-151.5654,1.1,2,ml,,,,0.16,ak,ak022ee0lbs8,2022-11-09T22:49:12.743Z,"57 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
