@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-30T16:47:14.340Z,34.9176667,-119.3646667,2.48,1.33,ml,16,93,0.04567,0.24,ci,ci40382704,2022-11-30T16:50:48.971Z,"16km SSE of Maricopa, CA",earthquake,0.52,1.25,0.3,19,automatic,ci,ci
 2022-11-30T16:39:39.830Z,34.3868333,-118.3848333,11.84,1.28,ml,30,48,0.08044,0.27,ci,ci40382696,2022-11-30T16:43:10.031Z,"10km NNE of Sylmar, CA",earthquake,0.41,1.58,0.244,28,automatic,ci,ci
 2022-11-30T16:32:59.550Z,60.9893,-151.2983,58.2,1.2,ml,,,,0.17,ak,ak022fcn7u4j,2022-11-30T16:34:13.744Z,"12 km SW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-30T16:03:14.977Z,63.9629,-149.8599,10.9,1.4,ml,,,,0.86,ak,ak022fcn1iy7,2022-11-30T16:05:58.776Z,"36 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-30T16:01:07.400Z,38.7545013,-122.4258347,6.4,2.06,md,18,67,,0.09,nc,nc73813151,2022-11-30T16:08:13.006Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.26,1.04,0.07,13,automatic,nc,nc
+2022-11-30T16:01:07.400Z,38.7545013,-122.4258347,6.4,2.06,md,18,67,,0.09,nc,nc73813151,2022-11-30T16:56:10.308Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.26,1.04,0.07,13,automatic,nc,nc
 2022-11-30T15:45:52.220Z,33.6516667,-116.6946667,14.28,0.72,ml,27,102,0.06153,0.19,ci,ci40382688,2022-11-30T15:49:27.815Z,"10km SSE of Idyllwild, CA",earthquake,0.43,0.5,0.197,16,automatic,ci,ci
 2022-11-30T15:18:23.189Z,-15.9117,176.9719,10,4.8,mb,17,131,2.096,0.41,us,us6000j5sp,2022-11-30T15:55:42.040Z,"194 km NNW of Ba, Fiji",earthquake,10.61,1.934,0.155,14,reviewed,us,us
 2022-11-30T15:17:42.331Z,26.8894,55.2139,9.759,5.6,mww,108,25,2.132,0.73,us,us6000j5sn,2022-11-30T16:16:39.027Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,6.34,4.172,0.086,13,reviewed,us,us
@@ -150,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T00:59:09.050Z,38.8153343,-122.8003311,1.87,0.5,md,13,63,0.008339,0.02,nc,nc73812921,2022-11-30T01:22:15.684Z,"6km NW of The Geysers, CA",earthquake,0.28,0.6,0.35,2,automatic,nc,nc
 2022-11-30T00:58:03.780Z,18.6803333333333,-65.0023333333333,10.27,3.12,md,14,248,0.3291,0.23,pr,pr71384653,2022-11-30T01:29:53.930Z,"38 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.88,0.74,0.12829919194896,11,reviewed,pr,pr
 2022-11-30T00:56:14.140Z,33.219,-116.7515,10.43,0.8,ml,26,52,0.01799,0.2,ci,ci40382528,2022-11-30T00:59:53.446Z,"3km SSE of Lake Henshaw, CA",earthquake,0.34,0.66,0.142,16,automatic,ci,ci
-2022-11-30T00:55:56.710Z,56.137,-116.5646,10,5.3,mww,114,47,1.815,0.71,us,us6000j5n4,2022-11-30T16:38:04.837Z,"46 km ESE of Peace River, Canada",earthquake,6.53,1.866,0.045,47,reviewed,us,us
+2022-11-30T00:55:56.710Z,56.137,-116.5646,10,5.3,mww,114,47,1.815,0.71,us,us6000j5n4,2022-11-30T16:59:29.099Z,"46 km ESE of Peace River, Canada",earthquake,6.53,1.866,0.045,47,reviewed,us,us
 2022-11-30T00:51:27.670Z,38.7876663,-122.7573318,0.05,0.9,md,12,113,0.01307,0.05,nc,nc73812916,2022-11-30T01:10:13.616Z,"1km N of The Geysers, CA",earthquake,0.25,0.59,0.37,2,automatic,nc,nc
 2022-11-30T00:35:32.391Z,-21.7025,-68.489,162.756,4.6,mb,23,53,0.706,0.44,us,us6000j5n0,2022-11-30T01:00:40.040Z,"94 km NNE of Calama, Chile",earthquake,7.47,11.036,0.182,9,reviewed,us,us
 2022-11-30T00:33:23.550Z,37.3084984,-121.6780014,6.33,1.4,md,16,81,0.0435,0.05,nc,nc73812906,2022-11-30T04:01:09.618Z,"14km E of Seven Trees, CA",earthquake,0.24,0.62,0.23,7,automatic,nc,nc
@@ -256,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T17:14:00.490Z,33.3593333,-115.7886667,3.57,2.26,ml,53,56,0.1328,0.14,ci,ci40382400,2022-11-30T01:21:23.630Z,"5km WNW of Bombay Beach, CA",earthquake,0.17,1.01,0.136,23,reviewed,ci,ci
 2022-11-29T17:11:53.580Z,33.5721667,-116.375,13.69,0.84,ml,27,89,0.07552,0.09,ci,ci40382392,2022-11-30T01:05:59.920Z,"12km SSW of La Quinta, CA",earthquake,0.18,0.38,0.154,20,reviewed,ci,ci
 2022-11-29T17:07:21.000Z,19.3003330230713,-155.412994384766,31.5,2.36,ml,44,142,,0.119999997,hv,hv73245222,2022-11-29T18:07:18.515Z,"12 km NNE of Pāhala, Hawaii",earthquake,0.55,0.629999995,3.85,20,automatic,hv,hv
-2022-11-29T16:51:27.363Z,36.8669,-115.9543,8.9,-0.1,ml,6,217.39,0.047,0.0612,nn,nn00852248,2022-11-29T21:26:50.085Z,"41 km NW of Indian Springs, Nevada",earthquake,,2.2,0.17,3,reviewed,nn,nn
