@@ -229,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T11:00:09.030Z,38.8363342,-122.7911682,1.68,0.21,md,7,120,0.002169,0.01,nc,nc73816151,2022-12-08T12:18:13.461Z,"6km WNW of Cobb, CA",earthquake,0.5,1.47,0.14,8,automatic,nc,nc
 2022-12-08T10:44:45.010Z,38.8264999,-122.8103333,1.75,0.72,md,13,65,0.003107,0.01,nc,nc73816146,2022-12-08T11:07:14.025Z,"7km NW of The Geysers, CA",earthquake,0.32,0.64,0.06,14,automatic,nc,nc
 2022-12-08T10:41:08.540Z,19.4105,-155.2745,0.89,2.08,ml,18,47,,0.1,hv,hv73263882,2022-12-08T22:58:36.970Z,"Island of Hawaii, Hawaii",earthquake,0.16,0.22,0.255158286429983,11,reviewed,hv,hv
-2022-12-08T10:36:21.240Z,38.8248329,-122.7953339,2.57,0.77,md,17,52,0.0116,0.01,nc,nc73816141,2022-12-08T11:52:13.310Z,"6km W of Cobb, CA",earthquake,0.28,0.65,0.12,17,automatic,nc,nc
-2022-12-08T10:34:51.446Z,36.4489,-116.226,0,0.5,ml,6,258.83,0.045,0.1498,nn,nn00853014,2022-12-09T02:42:43.527Z,"34 km NW of Pahrump, Nevada",earthquake,,0,1.04,3,reviewed,nn,nn
-2022-12-08T10:31:28.760Z,38.8848,-119.6344,1.5,0.7,ml,7,140.62,0.022,0.1455,nn,nn00853013,2022-12-09T02:42:42.035Z,"2 km NNE of Carter Springs, Nevada",earthquake,,4.1,0.38,2,reviewed,nn,nn
