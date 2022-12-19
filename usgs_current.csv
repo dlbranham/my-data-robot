@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T20:44:13.857Z,64.7502,-149.2652,18.5,1.2,ml,,,,0.48,ak,ak022g6hcai1,2022-12-18T20:46:14.644Z,"17 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-18T20:31:48.900Z,45.756166666666665,-121.84983333333334,7.98,1.32,ml,21,121,0.1194,0.24,uw,uw61899066,2022-12-18T21:19:32.930Z,"4 km NW of Carson, Washington",earthquake,0.6,0.76,0.2328607084795471,15,reviewed,uw,uw
 2022-12-18T20:30:03.570Z,38.8224983,-122.8081665,3.03,0.81,md,10,130,0.001738,0.01,nc,nc73820411,2022-12-18T21:15:23.785Z,"7km NW of The Geysers, CA",earthquake,0.67,1.24,0.11,10,automatic,nc,nc
-2022-12-18T20:15:00.580Z,38.8258324,-122.8521652,1.9,0.44,md,7,122,0.01366,0.01,nc,nc73820406,2022-12-18T20:46:15.614Z,"10km WNW of The Geysers, CA",earthquake,0.39,1.34,0.29,10,automatic,nc,nc
