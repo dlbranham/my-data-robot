@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-08T23:35:21.950Z,33.6925011,-116.7628326,15.77,1.22,ml,36,53,0.04464,0.16,ci,ci40154759,2023-01-08T23:37:28.301Z,"7km SW of Idyllwild, CA",earthquake,0.41,0.59,0.124,10,automatic,ci,ci
+2023-01-08T23:35:22.240Z,33.6821667,-116.7643333,13.79,1.04,ml,38,68,0.05085,0.19,ci,ci40154759,2023-01-08T23:39:03.228Z,"8km SSW of Idyllwild, CA",earthquake,0.3,0.42,0.158,29,automatic,ci,ci
 2023-01-08T23:11:12.290Z,19.2276666666667,-155.390333333333,30.39,1.69,md,30,153,,0.12,hv,hv73299497,2023-01-08T23:25:10.890Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.66,0.225884566713091,13,reviewed,hv,hv
 2023-01-08T22:59:29.760Z,38.7695007,-122.7289963,0.7,1.06,md,10,62,0.008532,0.05,nc,nc73830091,2023-01-08T23:16:12.757Z,"2km ESE of The Geysers, CA",earthquake,0.31,0.37,0.17,9,automatic,nc,nc
-2023-01-08T22:53:07.010Z,18.215,-66.9863333333333,11.82,,,3,134,0.2383,0.06,pr,pr71391743,2023-01-08T23:31:44.970Z,"3 km N of Maricao, Puerto Rico",earthquake,4.11,8.77,,,reviewed,pr,pr
+2023-01-08T22:53:07.010Z,18.2148333333333,-66.9866666666667,11.82,1.94,md,3,134,0.238,0.06,pr,pr71391743,2023-01-08T23:39:27.750Z,"Puerto Rico region",earthquake,0.55,31.61,0.182949783521315,3,reviewed,pr,pr
 2023-01-08T22:36:47.450Z,38.7693329,-122.7300034,0.66,2.2,md,33,55,,0.05,nc,nc73830081,2023-01-08T22:58:12.655Z,"2km ESE of The Geysers, CA",earthquake,0.21,0.27,0.22,36,automatic,nc,nc
 2023-01-08T22:24:29.350Z,35.8635,-117.998,9.58,1.23,ml,16,70,0.06361,0.11,ci,ci40154751,2023-01-08T22:28:05.770Z,"12km SW of Little Lake, CA",earthquake,0.23,0.51,0.259,20,automatic,ci,ci
 2023-01-08T22:20:11.475Z,28.93890381,-98.03733915,4.915405273,3.4,ml,18,55,0.05054384154,0.3,tx,tx2023aoms,2023-01-08T23:36:31.864Z,"5 km SSW of Falls City, Texas",earthquake,1.472975874,2.428049012,0.1,12,reviewed,tx,tx
@@ -167,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T00:32:41.002Z,36.1956,143.0513,10,4.5,mb,29,204,3.923,0.42,us,us7000j2vs,2023-01-08T00:52:12.040Z,"206 km ENE of Hasaki, Japan",earthquake,9.83,1.858,0.136,16,reviewed,us,us
 2023-01-08T00:14:47.500Z,38.8226662,-122.7638321,1.76,1.72,md,24,66,,0.03,nc,nc73829746,2023-01-08T00:48:12.806Z,"4km W of Cobb, CA",earthquake,0.24,0.35,0.29,27,automatic,nc,nc
 2023-01-08T00:12:02.170Z,35.7241667,-117.5303333,7.08,0.84,ml,9,187,0.1065,0.15,ci,ci40154503,2023-01-08T00:15:31.394Z,"12km WSW of Searles Valley, CA",earthquake,0.67,1.13,0.154,7,automatic,ci,ci
-2023-01-07T23:49:34.578Z,62.0844,-149.115,49.2,1.5,ml,,,,0.77,ak,ak023byqz4h,2023-01-08T10:44:41.127Z,"38 km N of Fishhook, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-07T23:49:22.501Z,65.0273,-147.035,2.3,1.1,ml,,,,0.83,ak,ak023byqy6y,2023-01-07T23:51:06.921Z,"northern Alaska",earthquake,,0.6,,,automatic,ak,ak
