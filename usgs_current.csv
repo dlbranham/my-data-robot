@@ -163,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T08:18:04.360Z,61.6829,-149.992,24.8,1.7,ml,,,,0.78,ak,ak023dd640k,2023-01-08T08:20:36.758Z,"7 km SSE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-08T08:12:28.392Z,58.152,-155.5857,19.1,0.7,ml,,,,1.28,ak,ak023dd4vkn,2023-01-08T08:14:11.477Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-01-08T08:11:14.207Z,59.8527,-153.2253,117,1.9,ml,,,,0.39,ak,ak023dd4mrg,2023-01-08T08:13:47.686Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-08T07:44:38.562Z,-9.1375,-108.3746,10,4.7,mb,55,113,26.05,0.53,us,us7000j2xu,2023-01-08T08:28:45.040Z,"central East Pacific Rise",earthquake,14.42,1.943,0.064,75,reviewed,us,us
