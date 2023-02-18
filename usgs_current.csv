@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-18T05:39:21.260Z,38.8214989,-122.7648315,2.31,1.12,md,15,119,0.009799,0.02,nc,nc73848036,2023-02-18T05:40:57.890Z,"4km W of Cobb, CA",earthquake,0.3,0.51,0.38,15,automatic,nc,nc
+2023-02-18T06:00:07.130Z,19.4531669616699,-155.483337402344,5.76999998092651,2.47,ml,37,87,,0.159999996,hv,hv73326857,2023-02-18T06:05:39.200Z,"26 km W of Volcano, Hawaii",earthquake,0.32,0.74000001,0.22,10,automatic,hv,hv
+2023-02-18T05:39:21.260Z,38.8214989,-122.7648315,2.31,1.12,md,15,119,0.009799,0.02,nc,nc73848036,2023-02-18T05:57:15.465Z,"4km W of Cobb, CA",earthquake,0.3,0.51,0.38,15,automatic,nc,nc
+2023-02-18T05:26:04.787Z,38.0726,37.1608,4.308,4,mb,38,62,0.603,0.79,us,us6000jpun,2023-02-18T06:02:05.040Z,"2 km WNW of Ekinözü, Turkey",earthquake,2.62,4.88,0.212,6,reviewed,us,us
 2023-02-18T05:11:29.653Z,62.9013,-149.6977,64.5,1.9,ml,,,,0.65,ak,ak023294dldx,2023-02-18T05:14:23.105Z,"54 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-18T04:51:54.618Z,-31.1783,-70.6232,105.511,4.5,mb,27,60,0.324,0.48,us,us6000jpuk,2023-02-18T05:15:32.040Z,"62 km SSE of Monte Patria, Chile",earthquake,5.17,2.345,0.241,5,reviewed,us,us
 2023-02-18T04:49:40.110Z,37.2573318,-121.6368332,5.14,2.37,md,54,66,0.029,0.05,nc,nc73848026,2023-02-18T04:56:11.250Z,"14km N of Morgan Hill, CA",earthquake,0.13,0.27,0.14,60,automatic,nc,nc
 2023-02-18T04:47:15.435Z,-2.8697,130.3291,19.086,4.9,mb,30,82,1.696,0.86,us,us6000jpuj,2023-02-18T05:06:39.040Z,"165 km ENE of Amahai, Indonesia",earthquake,7.07,4.808,0.092,37,reviewed,us,us
 2023-02-18T04:30:05.556Z,52.6655,-174.3929,215.694,4.3,mb,40,70,0.313,0.52,us,us6000jpuh,2023-02-18T04:48:21.040Z,"53 km NNW of Atka, Alaska",earthquake,11.65,4.257,0.097,30,reviewed,us,us
-2023-02-18T04:16:57.390Z,38.8433342,-122.836998,1.86,1.04,md,19,92,0.004883,0.04,nc,nc73848021,2023-02-18T04:34:13.884Z,"10km NW of The Geysers, CA",earthquake,0.24,0.48,0.14,20,automatic,nc,nc
+2023-02-18T04:16:57.390Z,38.8433342,-122.836998,1.86,1.04,md,19,92,0.004883,0.04,nc,nc73848021,2023-02-18T06:13:10.571Z,"10km NW of The Geysers, CA",earthquake,0.24,0.48,0.14,20,automatic,nc,nc
 2023-02-18T03:23:13.622Z,63.5799,-147.6535,25,1.4,ml,,,,0.99,ak,ak02329399jk,2023-02-18T03:25:29.469Z,"64 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-18T03:21:09.730Z,18.047,-66.8768333333333,16.44,2.83,md,23,74,0.07159,0.23,pr,pr71396598,2023-02-18T03:34:14.500Z,"3 km ENE of Lluveras, Puerto Rico",earthquake,0.34,0.75,0.103417929394718,8,reviewed,pr,pr
 2023-02-18T03:16:38.911Z,-22.38,-174.2422,10,4.9,mb,20,117,1.5,1.01,us,us6000jpu5,2023-02-18T03:34:09.040Z,"137 km SSE of ‘Ohonua, Tonga",earthquake,6.88,1.935,0.178,13,reviewed,us,us
@@ -178,10 +180,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T09:17:01.191Z,19.7544,-62.3561,10,4.5,mb,44,99,1.827,0.8,us,us6000jpks,2023-02-17T09:37:56.040Z,"Leeward Islands",earthquake,6.28,1.787,0.131,17,reviewed,us,us
 2023-02-17T09:15:58.690Z,38.8231659,-122.8431702,1.82,0.72,md,11,169,0.006359,0.01,nc,nc73847651,2023-02-17T11:20:12.603Z,"9km NW of The Geysers, CA",earthquake,0.42,0.46,0.38,11,automatic,nc,nc
 2023-02-17T09:11:40.742Z,45.086,23.0675,10,4.5,mb,25,129,1.139,0.65,us,us6000jpju,2023-02-17T12:36:41.101Z,"Romania",earthquake,2.53,1.903,0.156,12,reviewed,us,us
-2023-02-17T08:58:28.330Z,51.8551666666667,-177.951666666667,3.59,1.25,ml,6,140,,0.17,av,av91089233,2023-02-18T05:50:19.690Z,"90 km W of Adak, Alaska",earthquake,0.5,1.24,0.10456459428925,6,reviewed,av,av
+2023-02-17T08:58:28.310Z,51.8563333333333,-177.951666666667,3.91,1.25,ml,6,141,,0.16,av,av91089233,2023-02-18T05:52:10.210Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.48,0.6,0.10456459428925,6,reviewed,av,av
 2023-02-17T08:58:08.010Z,51.8538333333333,-177.947,3.85,1.2,ml,6,142,,0.05,av,av91764211,2023-02-18T05:47:56.670Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.26,0.26,0.190876625175831,6,reviewed,av,av
 2023-02-17T08:54:46.962Z,61.524,-149.915,34.9,1.4,ml,,,,0.65,ak,ak02327ivsu0,2023-02-17T08:56:40.086Z,"2 km E of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-17T08:46:15.600Z,51.8538333333333,-177.9455,3.78,1.98,ml,7,117,,0.1,av,av91764191,2023-02-18T05:55:01.490Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.38,0.32,0.171717448197869,7,reviewed,av,av
 2023-02-17T08:46:00.150Z,34.125,-117.4716667,6.24,1.61,ml,51,33,0.03727,0.22,ci,ci40415616,2023-02-17T08:58:55.468Z,"3km NNW of Fontana, CA",earthquake,0.26,0.67,0.16,26,automatic,ci,ci
+2023-02-17T08:45:56.450Z,51.8563333333333,-177.934666666667,3.31,1.56,ml,6,155,,0.15,av,av91089238,2023-02-18T05:57:47.370Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.46,1.35,0.225647046936325,6,reviewed,av,av
 2023-02-17T08:43:54.110Z,51.8598333333333,-177.9325,3.78,2.54,ml,14,120,,0.23,av,av91764181,2023-02-18T04:15:08.320Z,"89 km W of Adak, Alaska",earthquake,0.5,0.28,0.21821781155327,14,reviewed,av,av
 2023-02-17T08:43:11.540Z,51.8581666666667,-177.941166666667,3.68,1.69,ml,6,152,,0.15,av,av91764186,2023-02-18T04:46:17.750Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.45,1.14,0.262878959117282,6,reviewed,av,av
 2023-02-17T08:39:47.321Z,62.1426,-147.8462,35.7,1.2,ml,,,,0.66,ak,ak02327isl4c,2023-02-17T08:41:55.835Z,"38 km NNW of Glacier View, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -241,8 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T06:20:09.080Z,51.861,-177.973333333333,2.98,1.12,ml,6,126,,0.18,av,av91763881,2023-02-18T02:30:03.940Z,"92 km W of Adak, Alaska",earthquake,0.47,1.28,0.229813929457004,6,reviewed,av,av
 2023-02-17T06:17:05.020Z,51.8593333333333,-177.972166666667,3.55,1.58,ml,6,125,,0.22,av,av91089208,2023-02-18T02:27:52.170Z,"92 km W of Adak, Alaska",earthquake,0.53,1.3,0.204416352969352,6,reviewed,av,av
 2023-02-17T06:16:23.920Z,51.8615,-177.962666666667,4.08,2.28,ml,6,137,,0.26,av,av91763871,2023-02-18T02:24:39.140Z,"91 km W of Adak, Alaska",earthquake,0.73,1.83,0.256160959411374,6,reviewed,av,av
-2023-02-17T06:14:58.050Z,32.89,-116.2333333,5.82,1.79,ml,49,65,0.0873,0.19,ci,ci40415560,2023-02-17T21:51:51.900Z,"28km NW of Ocotillo, CA",earthquake,0.19,1.09,0.165,32,reviewed,ci,ci
-2023-02-17T06:11:40.359Z,61.9147,-149.5801,44.3,1.4,ml,,,,0.4,ak,ak02327hfpbn,2023-02-17T06:14:23.835Z,"26 km NW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-17T06:11:14.330Z,33.956,-116.709,14.1,0.75,ml,33,77,0.09668,0.16,ci,ci40415552,2023-02-17T21:11:36.522Z,"8km ENE of Cabazon, CA",earthquake,0.22,0.55,0.128,25,reviewed,ci,ci
-2023-02-17T05:56:10.380Z,51.8571666666667,-177.956666666667,-1.8,1.57,ml,6,137,,0.23,av,av91763826,2023-02-18T02:11:16.530Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,1.38,0.16485838463861,6,reviewed,av,av
-2023-02-17T05:54:55.900Z,51.8571666666667,-177.967166666667,3.76,1.37,ml,6,129,,0.2,av,av91763821,2023-02-18T02:14:03.490Z,"91 km W of Adak, Alaska",earthquake,0.5,1.31,0.150907114486696,6,reviewed,av,av
