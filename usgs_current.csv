@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-27T05:50:19.256Z,60.2997,-151.4246,58.8,1.2,ml,,,,0.48,ak,ak0233ybhrs5,2023-03-27T05:52:08.981Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-03-27T05:20:16.680Z,37.3037,-117.6584,2.9,0.3,ml,9,169.51,0.072,0.343,nn,nn00857523,2023-03-27T05:21:30.746Z,"50 km S of Silver Peak, Nevada",earthquake,,2.1,1.01,7,automatic,nn,nn
 2023-03-27T04:53:13.028Z,43.3548,-126.8521,10,4,mb,50,192,1.557,0.78,us,us7000jmyr,2023-03-27T05:13:23.857Z,"200 km W of Bandon, Oregon",earthquake,3.49,1.994,0.139,14,reviewed,us,us
 2023-03-27T04:50:00.624Z,53.5347,-170.5969,204.207,4.2,mb,41,130,1.189,0.81,us,us7000jmyq,2023-03-27T05:20:12.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,12.61,11.996,0.079,45,reviewed,us,us
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:04:04.078Z,58.2373,-154.7794,101.1,1.5,ml,,,,0.38,ak,ak0233wo9uwt,2023-03-26T18:01:09.618Z,"76 km NNW of Karluk, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2023-03-26T06:01:26.350Z,58.3261666666667,-155.064833333333,6.35,-0.65,ml,7,132,,0.3,av,av91819696,2023-03-26T20:03:39.140Z,"91 km NNW of Karluk, Alaska",earthquake,0.79,1.4,0.172076207867044,7,reviewed,av,av
 2023-03-26T05:57:03.140Z,38.8371658,-122.7991638,2.07,0.22,md,9,69,0.006999,0.01,nc,nc73862420,2023-03-26T08:08:15.383Z,"7km WNW of Cobb, CA",earthquake,0.43,1.14,0.11,9,automatic,nc,nc
-2023-03-26T05:42:47.000Z,19.2964992523193,-155.242660522461,2.27999997138977,2.25,ml,36,105,,0.219999999,hv,hv73349432,2023-03-26T05:48:18.370Z,"16 km S of Volcano, Hawaii",earthquake,0.35,0.689999998,0.3,8,automatic,hv,hv
