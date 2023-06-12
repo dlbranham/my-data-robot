@@ -1,6 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-12T21:52:58.842Z,33.1822,86.8802,13.065,4.5,mb,40,95,5.207,0.67,us,usd000jvde,2023-06-12T22:11:06.040Z,"western Xizang",earthquake,7.24,4.419,0.11,24,reviewed,us,us
-2023-06-12T21:52:58.101Z,33.1987,86.8803,10,4.4,mb,39,81,5.223,0.72,us,us7000k82h,2023-06-12T22:05:51.040Z,"western Xizang",earthquake,9.48,1.917,0.102,28,reviewed,us,us
+2023-06-12T21:52:58.101Z,33.1987,86.8803,10,4.4,mb,39,81,5.223,0.72,us,us7000k82h,2023-06-12T22:17:53.280Z,"western Xizang",earthquake,9.48,1.917,0.102,28,reviewed,us,us
 2023-06-12T21:49:33.849Z,62.3794,-151.0365,15,1.6,ml,,,,0.73,ak,ak0237hxe8w8,2023-06-12T21:51:47.481Z,"19 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-12T21:44:33.040Z,44.2658333333333,-115.183166666667,18.78,2.12,ml,14,68,0.8298,0.17,mb,mb90017868,2023-06-12T21:58:56.290Z,"20 km WNW of Stanley, Idaho",earthquake,0.47,1.06,0.210885230303093,15,reviewed,mb,mb
 2023-06-12T21:44:14.994Z,59.9044,-153.4913,138,2.1,ml,,,,0.21,ak,ak0237hxd4uz,2023-06-12T21:52:02.040Z,"36 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -163,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T22:39:24.090Z,33.0321667,-116.419,9.88,1.13,ml,43,88,0.04781,0.18,ci,ci40483544,2023-06-12T15:44:09.370Z,"18km ESE of Julian, CA",earthquake,0.22,0.38,0.138,20,reviewed,ci,ci
 2023-06-11T22:29:49.522Z,58.4863,-154.9231,101.7,1.2,ml,,,,0.59,ak,ak0237gac2w8,2023-06-11T22:32:21.769Z,"103 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-11T22:29:24.346Z,38.6044,22.9285,10,4,mb,44,55,1.535,0.8,us,us7000k7wn,2023-06-12T20:40:25.040Z,"8 km SW of Atalánti, Greece",earthquake,4.39,1.933,0.138,14,reviewed,us,us
-2023-06-11T22:21:43.100Z,17.9076666666667,-66.8311666666667,13.06,2.29,md,7,234,0.08116,0.08,pr,pr71413063,2023-06-11T22:38:57.180Z,"9 km S of Indios, Puerto Rico",earthquake,1.09,0.48,0.0328266966863384,4,reviewed,pr,pr
