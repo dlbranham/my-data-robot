@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-14T09:28:43.817Z,58.1711,-155.1822,40.8,0.8,ml,,,,0.4,ak,ak0237l17989,2023-06-14T09:39:06.375Z,"79 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-14T09:26:41.516Z,58.3586,-155.1702,19.6,0.6,ml,,,,0.99,ak,ak0237l16tqv,2023-06-14T09:28:25.666Z,"94 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-14T08:50:40.403Z,37.1459,-116.494,9.5,-0.4,ml,8,154.02,0.146,0.0858,nn,nn00861207,2023-06-14T08:52:23.359Z,"35 km NE of Beatty, Nevada",earthquake,,1.6,1.04,6,automatic,nn,nn
 2023-06-14T08:30:27.580Z,33.6451667,-116.7048333,13.31,0.9,ml,33,54,0.06629,0.18,ci,ci40485400,2023-06-14T08:34:00.007Z,"10km NNW of Anza, CA",earthquake,0.26,0.4,0.232,23,automatic,ci,ci
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T10:06:10.939Z,63.4747,-146.0642,3.5,1.2,ml,,,,0.69,ak,ak0237je4k6d,2023-06-13T10:07:57.796Z,"48 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-13T10:03:13.860Z,32.7558333,-115.4188333,13.21,1.82,ml,30,69,0.05468,0.28,ci,ci40484504,2023-06-13T17:45:48.550Z,"7km SSW of Holtville, CA",earthquake,0.38,0.76,0.205,19,reviewed,ci,ci
 2023-06-13T10:01:03.220Z,38.8006668,-122.7883301,2.66,0.77,md,14,64,0.007484,0.04,nc,nc73900641,2023-06-13T10:18:12.889Z,"4km NW of The Geysers, CA",earthquake,0.36,0.73,0.12,14,automatic,nc,nc
-2023-06-13T09:31:53.336Z,12.8658,-90.9622,35,4.6,mb,104,175,1.544,0.63,us,us7000k857,2023-06-13T14:41:59.040Z,"118 km S of Puerto San José, Guatemala",earthquake,7.94,1.967,0.034,262,reviewed,us,us
