@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-15T21:23:17.540Z,34.5478333,-118.9811667,13.32,2.4,ml,56,27,0.08662,0.27,ci,ci39613850,2023-07-15T21:26:54.206Z,"18km NNW of Fillmore, CA",earthquake,0.3,0.79,0.199,26,automatic,ci,ci
+2023-07-15T21:23:17.540Z,34.5478333,-118.9811667,13.32,2.4,ml,56,27,0.08662,0.27,ci,ci39613850,2023-07-15T21:34:01.180Z,"18km NNW of Fillmore, CA",earthquake,0.3,0.79,0.199,26,automatic,ci,ci
 2023-07-15T21:15:02.555Z,63.0922,-150.5073,29.2,1,ml,,,,0.95,ak,ak02390hxcfj,2023-07-15T21:17:01.264Z,"67 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-15T21:11:36.835Z,48.2519,154.8343,35,5.1,mb,103,131,5.192,0.75,us,us7000kg0p,2023-07-15T21:32:35.040Z,"285 km SSW of Severo-Kuril’sk, Russia",earthquake,8.66,1.885,0.028,425,reviewed,us,us
 2023-07-15T21:00:28.170Z,34.015,-116.322,8.6,1.6,ml,41,45,0.07821,0.17,ci,ci39613842,2023-07-15T21:11:20.670Z,"13km S of Joshua Tree, CA",earthquake,0.22,0.62,0.216,27,automatic,ci,ci
 2023-07-15T21:00:16.035Z,61.5452,-149.8089,33.3,2,ml,,,,0.45,ak,ak02390hu5qb,2023-07-15T21:01:59.524Z,"8 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-15T20:54:35.510Z,17.8033333333333,-66.796,27.81,2.66,md,7,267,0.1883,0.14,pr,pr71418053,2023-07-15T21:14:44.660Z,"21 km S of Indios, Puerto Rico",earthquake,0.93,1.25,0.104586830273246,3,reviewed,pr,pr
@@ -180,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T01:32:50.140Z,19.1868324279785,-155.498672485352,34.1100006103516,2.11,ml,29,133,,0.170000002,hv,hv73482097,2023-07-15T01:38:20.980Z,"2 km SW of Pāhala, Hawaii",earthquake,0.85,1.15999997,0.18,4,automatic,hv,hv
 2023-07-15T01:31:25.342Z,36.8278,-115.9496,9.8,0.2,ml,5,212.66,0.038,0.0745,nn,nn00862662,2023-07-15T15:26:39.203Z,"37 km NW of Indian Springs, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
 2023-07-15T01:30:10.620Z,19.342,-155.4925,6.9,1.97,ml,38,47,,0.13,hv,hv73482092,2023-07-15T02:34:49.390Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.62,0.103855737020734,7,reviewed,hv,hv
-2023-07-15T01:24:26.690Z,52.099,-176.189833333333,-1.8,0.6,ml,4,285,,0.29,av,av91963566,2023-07-15T20:20:01.120Z,"39 km NE of Adak, Alaska",earthquake,4.62,3.39,0.223272419387352,4,reviewed,av,av
+2023-07-15T01:24:26.690Z,52.099,-176.189833333333,-1.8,0.6,ml,4,285,,0.29,av,av91963566,2023-07-15T20:20:01.120Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,4.62,3.39,0.223272419387352,4,reviewed,av,av
 2023-07-15T01:17:54.480Z,58.1716666666667,-155.343333333333,1.96,-0.1,ml,9,77,,0.04,av,av91963561,2023-07-15T21:01:06.850Z,"Alaska Peninsula",earthquake,0.18,0.39,0.218291537822577,10,reviewed,av,av
 2023-07-15T01:13:57.470Z,39.1063333,-123.0486667,5.02,2.06,md,61,55,0.03204,0.12,nc,nc73913071,2023-07-15T05:08:15.512Z,"11 km ESE of Talmage, CA",earthquake,0.17,0.4,0.161,64,reviewed,nc,nc
 2023-07-15T01:09:46.481Z,61.2974,-146.8792,28,1,ml,,,,0.63,ak,ak023905zhfc,2023-07-15T01:11:52.661Z,"34 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T21:51:56.376Z,36.7628,-116.2567,8.8,-0.3,ml,13,125.04,0.027,0.0912,nn,nn00862654,2023-07-15T02:57:10.334Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.01,2,reviewed,nn,nn
 2023-07-14T21:51:04.580Z,37.4241667,-119.0596667,8.53,1.05,md,21,77,0.1868,0.13,nc,nc73913031,2023-07-14T23:25:15.459Z,"25 km SSW of Mammoth Lakes, CA",earthquake,0.65,3.53,0.101,14,reviewed,nc,nc
 2023-07-14T21:46:05.750Z,18.1598333333333,-65.9808333333333,77.12,3.03,md,18,114,0.1267,0.17,pr,pr71417873,2023-07-15T16:17:41.974Z,"1 km E of Jagual, Puerto Rico",earthquake,0.94,0.64,0.100101845886558,6,reviewed,pr,pr
-2023-07-14T21:35:30.483Z,59.0105,-152.0605,60.4,1.5,ml,,,,0.48,ak,ak0238yuicew,2023-07-14T21:37:40.423Z,"39 km SSW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-14T21:33:17.830Z,35.8751667,-117.7158333,9.13,2.1,ml,39,40,0.0775,0.15,ci,ci39613242,2023-07-14T23:56:36.430Z,"18km ESE of Little Lake, CA",earthquake,0.17,0.44,0.109,23,reviewed,ci,ci
