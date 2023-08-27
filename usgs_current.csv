@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-27T09:05:46.614Z,62.7958,-146.0753,250,2,ml,,,,0.91,ak,ak023azeu0vu,2023-08-27T09:09:00.007Z,"40 km SW of Paxson, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-08-27T08:56:02.830Z,40.7391663,-125.1121674,10.01,2.39,md,10,315,0.7096,0.12,nc,nc73929866,2023-08-27T09:02:11.651Z,"74 km WNW of Ferndale, CA",earthquake,10.26,13.03,,1,automatic,nc,nc
+2023-08-27T09:02:02.100Z,19.3118333333333,-66.0716666666667,89.51,3.43,md,11,299,1.026,0.17,pr,pr71422343,2023-08-27T09:18:56.950Z,"Puerto Rico region",earthquake,2.94,4.65,0.0540820927081915,7,reviewed,pr,pr
+2023-08-27T08:56:02.830Z,40.7391663,-125.1121674,10.01,2.39,md,10,315,0.7096,0.12,nc,nc73929866,2023-08-27T09:18:14.737Z,"74 km WNW of Ferndale, CA",earthquake,10.26,13.03,,1,automatic,nc,nc
 2023-08-27T08:46:34.450Z,-58.6897,-25.1418,28.391,4.7,mb,38,92,15.874,0.51,us,us7000krb2,2023-08-27T09:11:04.040Z,"South Sandwich Islands region",earthquake,14.88,7.244,0.093,39,reviewed,us,us
 2023-08-27T08:45:17.990Z,35.72,-117.5948333,10.94,0.45,ml,10,144,0.1297,0.19,ci,ci39652314,2023-08-27T08:48:46.022Z,"13 km NNE of Ridgecrest, CA",earthquake,0.9,1.02,0.098,5,automatic,ci,ci
 2023-08-27T08:36:47.590Z,33.8050003,-116.9585037,14.43,0.7,ml,13,168,0.1031,0.12,ci,ci39652306,2023-08-27T08:40:09.146Z,"2 km N of San Jacinto, CA",earthquake,0.63,0.9,0.177,3,automatic,ci,ci
