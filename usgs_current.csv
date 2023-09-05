@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-05T07:07:30.450Z,35.0901667,-118.1886667,8.44,0.79,ml,10,85,0.05987,0.15,ci,ci39658482,2023-09-05T07:11:04.556Z,"4 km NNW of Mojave, CA",earthquake,0.39,0.98,0.121,6,automatic,ci,ci
 2023-09-05T07:03:52.480Z,19.4853324890137,-155.447326660156,1.80999994277954,2.26,ml,40,72,,0.150000006,hv,hv73563122,2023-09-05T07:09:23.550Z,"22 km WNW of Volcano, Hawaii",earthquake,0.31,1.42999995,0.29,11,automatic,hv,hv
 2023-09-05T06:34:53.330Z,38.7746658,-122.7143326,2.01,0.78,md,6,96,0.01343,0.02,nc,nc73933281,2023-09-05T06:36:26.782Z,"2 km W of Anderson Springs, CA",earthquake,0.69,1.72,0.05,7,automatic,nc,nc
 2023-09-05T06:34:38.250Z,38.7775002,-122.7193298,1.32,1.63,md,19,83,0.01475,0.04,nc,nc73933276,2023-09-05T06:59:15.029Z,"2 km W of Anderson Springs, CA",earthquake,0.26,0.45,0.17,18,automatic,nc,nc
-2023-09-05T06:32:04.780Z,38.7680016,-122.7253342,0.92,1.1,md,8,115,0.01763,0.02,nc,nc73933266,2023-09-05T06:48:11.976Z,"3 km ESE of The Geysers, CA",earthquake,0.33,0.7,0.1,9,automatic,nc,nc
+2023-09-05T06:32:04.780Z,38.7680016,-122.7253342,0.92,1.1,md,8,115,0.01763,0.02,nc,nc73933266,2023-09-05T07:14:13.122Z,"3 km ESE of The Geysers, CA",earthquake,0.33,0.7,0.1,9,automatic,nc,nc
 2023-09-05T06:17:31.850Z,34.0083333,-117.1891667,6.12,1.61,ml,72,25,0.0623,0.19,ci,ci39658474,2023-09-05T06:21:11.128Z,"5 km S of Redlands, CA",earthquake,0.15,0.55,0.196,25,automatic,ci,ci
 2023-09-05T06:14:55.103Z,59.9551,-147.8113,30.6,1.5,ml,,,,0.7,ak,ak023be8xsdi,2023-09-05T06:16:46.377Z,"Gulf of Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-09-05T06:03:37.641Z,56.706,-156.0353,16.5,2.3,ml,,,,0.63,ak,ak023be8ve5g,2023-09-05T06:06:57.019Z,"116 km WSW of Akhiok, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T07:30:27.020Z,33.4103333,-116.5925,8.3,0.64,ml,24,72,0.08453,0.12,ci,ci39658082,2023-09-04T07:34:00.728Z,"15 km NNE of Warner Springs, CA",earthquake,0.27,0.65,0.19,12,automatic,ci,ci
 2023-09-04T07:30:06.680Z,40.5778351,-124.1073303,9.27,1.58,md,6,219,0.2084,0.06,nc,nc73932871,2023-09-04T08:15:15.239Z,"4 km NNW of Hydesville, CA",earthquake,2.18,2.23,,1,automatic,nc,nc
 2023-09-04T07:24:15.356Z,63.1626,-152.1655,12,1.1,ml,,,,0.82,ak,ak023bcm1xkv,2023-09-04T07:26:15.500Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-04T07:12:56.603Z,37.0173,-104.9821,6.772,1.8,ml,9,86,0.191,0.58,us,us7000kt4x,2023-09-04T07:48:07.040Z,"15 km SSE of Stonewall Gap, Colorado",earthquake,1.73,2.393,0.128,8,reviewed,us,us
-2023-09-04T07:11:09.273Z,63.1025,-150.4633,86.7,1.4,ml,,,,0.45,ak,ak023bclz4sv,2023-09-04T07:13:14.030Z,"69 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
